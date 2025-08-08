@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.title("Stock Correlation & Portfolio Analysis")
+st.title("Stock Correlation & Portfolio Analysis by Manthan Kumar")
 
 # === Inputs ===
 tickers = st.text_input("Enter ticker symbols separated by commas", "AAPL, MSFT, GOOG")
